@@ -1,0 +1,8 @@
+# Redirect rules
+/academy	https://www.partechacademy.nl
+
+
+
+
+# Leave this default redirect!
+/*	https://www.partech.nl
