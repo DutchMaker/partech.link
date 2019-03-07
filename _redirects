@@ -1,4 +1,7 @@
-# Redirect rules
+https://relaxed-jones-a74c37.netlify.com/*	https://partech.link/:splat 301!
+
+
+# Add your redirect (shortner) rules here:
 /academy	https://www.partechacademy.nl
 
 
