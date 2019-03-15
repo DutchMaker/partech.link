@@ -5,7 +5,7 @@ https://parte.ch.netlify.com/* https://partech.link/:splat 301!
 /academy https://www.partechacademy.nl
 /test https://www.google.com
 /training-evaluation https://docs.google.com/forms/d/e/1FAIpQLSf4T74XPzmyjhNav8ghJxL2QSP38_hz_fEbvgA6JieHlseDbw/viewform
-/test123 https://www.partech.nl
+/jobs https://www.partech.nl/nl/vacatures
 
 # Leave this default redirect!
 /* https://www.partech.nl
