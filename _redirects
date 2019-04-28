@@ -7,5 +7,7 @@ https://parte.ch.netlify.com/* https://partech.link/:splat 301!
 /training-evaluation https://docs.google.com/forms/d/e/1FAIpQLSf4T74XPzmyjhNav8ghJxL2QSP38_hz_fEbvgA6JieHlseDbw/viewform
 /jobs https://www.partech.nl/nl/vacatures
 
+/training-smf-1 https://drive.google.com/drive/folders/14gs0EoyuS12qwk-MxPJKTFaVeut4Tt-r?usp=sharing
+
 # Leave this default redirect!
 /* https://www.partech.nl
