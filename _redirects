@@ -11,5 +11,9 @@ https://parte.ch.netlify.com/* https://partech.link/:splat 301!
 /training-scmf https://drive.google.com/drive/folders/16eUWSLsy05kBzt9Gprx3s3kwtd6nW039?usp=sharing
 /aon-content-2 https://drive.google.com/drive/folders/18MtnP2BuaIs4kfOQkonDAR9gne7mokwP?usp=sharing
 
+# Shortcuts to training pages
+/sdf https://www.partechacademy.nl/trainingen/sitecore-development-fundamentals/
+/asd https://www.partechacademy.nl/trainingen/advanced-sitecore-development/
+
 # Leave this default redirect!
 /* https://www.partech.nl
