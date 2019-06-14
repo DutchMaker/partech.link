@@ -14,6 +14,8 @@ https://parte.ch.netlify.com/* https://partech.link/:splat 301!
 # Shortcuts to training pages
 /sdf https://www.partechacademy.nl/trainingen/sitecore-development-fundamentals/
 /asd https://www.partechacademy.nl/trainingen/advanced-sitecore-development/
+/scmf https://www.partechacademy.nl/trainingen/sitecore-content-management-fundamentals/
+/smf https://www.partechacademy.nl/trainingen/sitecore-marketing-foundation/
 
 # Leave this default redirect!
 /* https://www.partech.nl
