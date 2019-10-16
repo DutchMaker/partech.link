@@ -23,6 +23,7 @@ https://parte.ch.netlify.com/* https://partech.link/:splat 301!
 /asd https://www.partechacademy.nl/trainingen/advanced-sitecore-development/
 /scmf https://www.partechacademy.nl/trainingen/sitecore-content-management-fundamentals/
 /smf https://www.partechacademy.nl/trainingen/sitecore-marketing-foundation/
+/smfr https://www.partechacademy.nl/aanmelden/sitecore-marketing-foundation/
 
 # Leave this default redirect!
 /* https://www.partech.nl
