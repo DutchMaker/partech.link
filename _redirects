@@ -25,5 +25,12 @@ https://parte.ch.netlify.com/* https://partech.link/:splat 301!
 /smf https://www.partechacademy.nl/trainingen/sitecore-marketing-foundation/
 /smfr https://www.partechacademy.nl/aanmelden/sitecore-marketing-foundation/
 
+# Social media channels
+/linkedin https://www.linkedin.com/company/partech-it
+/twitter https://twitter.com/ParTechIT
+/facebook https://www.facebook.com/ParTechIT/
+/youtube https://www.youtube.com/partechit
+/instagram https://www.instagram.com/partech_it/
+
 # Leave this default redirect!
 /* https://www.partech.nl
