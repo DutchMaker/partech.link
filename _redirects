@@ -33,5 +33,10 @@ https://parte.ch.netlify.com/* https://partech.link/:splat 301!
 /youtube https://www.youtube.com/channel/UC50C4EFhiXWl-I7v8Vczn8A
 /instagram https://www.instagram.com/partech_it/
 
+#newsletter links
+/newsletter-1  https://mailchi.mp/c82ef5f26c4b/partech-nieuwsbrief-oktober
+/newsletter-2  https://preview.mailerlite.com/a8r9j4
+/newsletter-3  https://preview.mailerlite.com/w2f5v0
+
 # Leave this default redirect!
 /* https://www.partech.nl
